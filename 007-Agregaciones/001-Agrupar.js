@@ -1,0 +1,1 @@
+db.producto.aggregate([{$group:{_id:"precio"}}]);
