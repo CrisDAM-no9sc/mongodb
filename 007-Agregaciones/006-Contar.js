@@ -1,1 +1,2 @@
-db.productos.aggregate([{$count:{nombre:"producto 1"}}]);
+
+db.Productos1.aggregate([{$count:"nombre"}]);

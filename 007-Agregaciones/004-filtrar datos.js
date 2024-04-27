@@ -1,3 +1,3 @@
 //PROYECTAR CAMPOS
 
-db.productos.aggregate([{$project:{"nombre":1}}]);
+db.Productos1.aggregate([{$project:{"nombre":1}}]);

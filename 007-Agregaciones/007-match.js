@@ -1,1 +1,1 @@
-db.productos.aggregate([{$match:{nombre:"producto 1"}}]);
+db.Productos1.aggregate([{$match:{nombre:"Articulo1"}}]);

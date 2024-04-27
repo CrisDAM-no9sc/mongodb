@@ -1,1 +1,1 @@
-db.producto.aggregate([{$limit:1}]);
+db.Productos1.aggregate([{$limit:1}]);
